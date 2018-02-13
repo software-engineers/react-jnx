@@ -18,3 +18,11 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 ## Test hello
  Hello, this is a test. Ok.
+
+ ## Feature branch
+ Changes to be checked in. May be a new feature or function added to the project.
+ ```
+ const f18 = (msg) => {
+   return msg
+ }
+ ```
