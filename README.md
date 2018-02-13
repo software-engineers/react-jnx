@@ -27,4 +27,4 @@ You can find the most recent version of this guide [here](https://github.com/fac
  }
  ```
 ## Conflict test
-This is about to create a conflict.
+I hope this isn't much of a problem.
