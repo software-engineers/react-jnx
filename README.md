@@ -26,3 +26,5 @@ You can find the most recent version of this guide [here](https://github.com/fac
    return msg
  }
  ```
+## On focus
+Provide solutions when possible.
