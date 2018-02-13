@@ -31,3 +31,4 @@ You can find the most recent version of this guide [here](https://github.com/fac
 Provide solutions when possible.
 
 More info coming soon?
+Planned version 1.2
